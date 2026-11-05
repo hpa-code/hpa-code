@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hari 👋</h1>
+<h1 align="center">Hi, I'm Hari</h1>
 
 <p align="center">
   <img alt="CS student at the University of Rochester. Computer vision and data pipelines. Messy data in, useful numbers out." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=CS%20student%20at%20the%20University%20of%20Rochester;Computer%20vision%20and%20data%20pipelines;Messy%20data%20in%2C%20useful%20numbers%20out">
