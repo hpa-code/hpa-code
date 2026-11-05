@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I'm Hari</h1>
+<h1 align="center">Hi, I'm Hari 👋</h1>
 
 <p align="center">
-  <img alt="CS student at the University of Rochester. Computer vision and data pipelines. Messy data in, useful numbers out." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=CS%20student%20at%20the%20University%20of%20Rochester;Computer%20vision%20and%20data%20pipelines;Messy%20data%20in%2C%20useful%20numbers%20out">
+  <img alt="Research Assistant @ Goergen Institute for Data Science &amp; AI. Data Science &amp; AI Intern @ Buffalo Solar. Software Engineering Intern @ InnoTech. Three-time hackathon winner." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=760&lines=Research%20Assistant%20%40%20Goergen%20Institute%20for%20Data%20Science%20%26%20AI;Data%20Science%20%26%20AI%20Intern%20%40%20Buffalo%20Solar;Software%20Engineering%20Intern%20%40%20InnoTech;Three-time%20hackathon%20winner">
 </p>
 
 <p align="center">
-  <a href="https://hpa-code.github.io">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/hari-p-acharya">LinkedIn</a>
+  <a href="https://hpa-code.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-0B6B5A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hari-p-acharya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"></a>
 </p>
 
 ### 🚀 Projects
 
 - 🗽 **[NYC 311 Signal](https://github.com/hpa-code/nyc-311-signal)**: predicts which NYC 311 requests won't close within a week ([live](https://hpa-code.github.io/nyc-311-signal/))
 - 🛰️ **[geoimagery](https://github.com/hpa-code/geoimagery)**: downloads aerial imagery for any polygon ([PyPI](https://pypi.org/project/geoimagery/))
-- 🌳 **[Campus sustainability](https://hpa-code.github.io)**: predicts university sustainability ratings from imagery
 - 📸 **[Eventuality](https://github.com/Eventuallity/eventuality-app)**: turns event flyers into calendar events, built with a team
 
 ### 🛠️ Things I code with
