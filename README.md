@@ -1,12 +1,9 @@
-<h1 align="center">Hi, I'm Hari 👋</h1>
+<img alt="Hi, I'm Hari. Teaching computers to see things, grading college campuses from space, guessing which NYC potholes get ghosted, and turning event flyers into calendar invites." src="assets/header.svg" width="100%">
 
 <p align="center">
-  <img alt="Research Assistant @ Goergen Institute for Data Science &amp; AI. Data Science &amp; AI Intern @ Buffalo Solar. Software Engineering Intern @ InnoTech. Three-time hackathon winner." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=760&lines=Research%20Assistant%20%40%20Goergen%20Institute%20for%20Data%20Science%20%26%20AI;Data%20Science%20%26%20AI%20Intern%20%40%20Buffalo%20Solar;Software%20Engineering%20Intern%20%40%20InnoTech;Three-time%20hackathon%20winner">
-</p>
-
-<p align="center">
-  <a href="https://hpa-code.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-0B6B5A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hari-p-acharya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"></a>
+  <a href="https://hpa-code.github.io"><img alt="My website" src="assets/link-website.svg" width="210"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hari-p-acharya"><img alt="My LinkedIn" src="assets/link-linkedin.svg" width="210"></a>
 </p>
 
 ### 🚀 Projects
